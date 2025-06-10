@@ -5,7 +5,7 @@ A Tableau dashboard exploring the top 5 European countries booking hotels in Por
 ---
 
 ## Overview
-This dashboard analyzes over 107,000 hotel bookings (2015–2017) across city and resort hotels in Portugal. It focuses on the top 5 booking countries in Europe and reveals unique patterns in travel behavior.
+This dashboard analyses over 107,000 hotel bookings (2015–2017) across city and resort hotels in Portugal. It focuses on the top 5 booking countries in Europe and reveals unique patterns in travel behavior.
 
 ## Tools Used
 - Tableau Public
